@@ -1,0 +1,17 @@
+<library>
+        <book>
+             <title>Na Jevitam Nila Estam</title>
+             <author>Deepak Reddy</author>
+             <price>1000</price>
+        </book>
+         <book>
+             <title>Na Pichi Na estam</title>
+             <author>Nila Reddy</author>
+             <price>5000</price>
+        </book>
+        <book>
+             <title>Babu EbEnduko Venuka Padadu</title>
+             <author>Babu Banari</author>
+             <price>3000</price>
+        </book>
+</library>
